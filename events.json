@@ -1,0 +1,20 @@
+{
+    "results":
+    {
+        "eventId": "Tadawul event 1",
+        "title": "Our Gathering, 2018 Annual Gathering",
+        "short_description": "The Saudi Stock Exchange (Tadawul) on Tuesday scheduled the event  on Al Maather real estate investment traded fund's (Al Maather REIT Fund) units will start on 10 February.                                                     Tadawul had previously stated that the fund’s symbol will be 4334, and it will be listed .",
+        "long_description": "The Saudi Stock Exchange (Tadawul) on Tuesday scheduled the event  on Al Maather real estate investment traded fund's (Al Maather REIT Fund) units will start on 10 February.                                                     Tadawul had previously stated that the fund’s symbol will be 4334, and it will be listed .",
+        "date": "Thursday Feb 10 , 2018 - 10:00 AM - 7:00 PM",
+        "address" : "Tawuniya Towers NCCI North  Olaya Street King Fahad Rd",
+        "location":
+        {
+            "lat" : 4.66,
+            "lon" : 44.55
+            
+        },
+        "image" : "url",
+        
+    }
+}
+

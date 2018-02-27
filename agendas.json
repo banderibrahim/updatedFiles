@@ -1,0 +1,187 @@
+    {
+        "results": [
+          {
+            "agendaId": "1",
+            "title": "Glad you made it, Nawartona!",
+                    "short_description": "Register, And get to know your colleagues!",
+            "long_description": "example glossary",
+            "category": "example glossary",
+            "image": "eventImage_1",
+            "speaker_name": "Event Organiser",
+            "speaker_details": "contacting event organiser to learn about event. Media department is ready to help you ib all categories ofr the event without hesitation include testimonials and reviews from past attendees to create the same effect. One study showed that 79% of customers tr",
+           "date": "12:00 – 1:00",
+            "location": "example location"
+        },
+                
+          {
+            "agendaId": "2",
+            "title": "Eyes on The Big Screen",
+            "short_description": "Aren’t you curious about Tadawul’ s History ? well, let’s have a look at it!",
+            "long_description": "example glossary 2",
+            "category": "example glossary 2",
+            "image": "eventImage_2",
+            "speaker_name": "Fahad . Al Sam",
+            "speaker_details": "Entrepreneur  Fahad . Al Sam founded the world's largest software business, Microsoft, with Paul Allen, and subsequently became one of the richest men in the world.",
+            "date": "1:00 – 1:05",
+            "location": "example location"
+        },
+                   {
+                    "agendaId": "3",
+                   "title": "Boss Talks",
+                   "short_description": "Our CEO will give a speech ",
+                   "long_description": "example glossary 2",
+                   "category": "example glossary 2",
+                   "image": "eventImage_3",
+                   "speaker_name": "Fahad Hassan",
+                   "speaker_details": "Entrepreneur  Fahad Hassan founded the world's largest software business, Microsoft, with Paul Allen, and subsequently became one of the richest men in the world.",
+                    "date": "1:05 – 1:10",
+                   "location": "example location"
+                   },
+                   {
+                    "agendaId": "4",
+                   "title": "Show us you know us",
+                   "short_description": "Show us you know our vision & mission",
+                   "long_description": "example glossary 2",
+                   "category": "example glossary 2",
+                   "image": "eventImage_4",
+                   "speaker_name": "Event Organiser",
+                   "speaker_details": "Media department will handle this .The massive technology conference Techweek references past attendees and sponsors to illustrate how popular and illustrious the event is. If you don’t have big names to reference you can include testimonials and reviews from past attendees to create the same effect. One study showed that 79% of customers trust online reviews as much as personal recommendations.",
+                    "date": "1:10 – 1:20",
+                   "location": "example glossary"
+                   },
+                   {
+                    "agendaId": "5",
+                   "title": "All in Seven",
+                   "short_description": "What are the Strategy pillars? ",
+                   "long_description": "example glossary 2",
+                   "category": "example glossary 2",
+                   "image": "eventImage_5",
+                   "speaker_name": "CEO of Tadawul",
+                    "speaker_details": "CEO  Khalid founded the world's largest software business, with some event details, with Paul Allen, and subsequently became one of the richest men in the world.",
+                    "date": "1:20 – 1:25",
+                   "location": "example location"
+                   },
+                   {
+                    "agendaId": "6",
+                   "title": "Let’s Focus ",
+                   "short_description": "Our strategy",
+                   "long_description": "example glossary",
+                   "category": "example glossary",
+                   "image": "eventImage_1",
+                    "speaker_name": "Event Organiser",
+                    "speaker_details": "Media department will handle this .The massive technology conference Techweek references past attendees and sponsors to illustrate how popular and illustrious the event is. If you don’t have big names to reference you can include testimonials and reviews from past attendees to create the same effect. One study showed that 79% of customers trust online reviews as much as personal recommendations.",
+                    "date": "1:25 – 1:30",
+                   "location": "example location"
+                   },
+                    {
+                    "agendaId": "7",
+                    "title": "Win the Battle ",
+                    "short_description": "Win the Strategy battle and collect your gift  ",
+                    "long_description": "example glossary",
+                    "category": "example glossary",
+                    "image": "eventImage_1",
+                    "speaker_name": "Bandar I Al sowayeh",
+                    "speaker_details": "Bandar Sowayeh founded the world's largest software business, with some event details, with Paul Allen, and subsequently became one of the richest men in the world.",
+                    "date": "1:30 – 1:55",
+                    "location": "example location"
+                    },
+                    {
+                    "agendaId": "8",
+                    "title": "Guess who!",
+                    "short_description": "Can you recognize your manager?  ",
+                    "long_description": "example glossary",
+                    "category": "example glossary",
+                    "image": "eventImage_1",
+                    "speaker_name": "Event Organiser",
+                    "speaker_details": "Media department will handle this .The massive technology conference Techweek references past attendees and sponsors to illustrate how popular and illustrious the event is. If you don’t have big names to reference you can include testimonials and reviews from past attendees to create the same effect. One study showed that 79% of customers trust online reviews as much as personal recommendations.",
+                    "date": "1:55 – 2:00",
+                    "location": "example location"
+                    },
+                    {
+                    "agendaId": "9",
+                    "title": "Coffee break",
+                    "short_description": "Let’s have a break",
+                    "long_description": "example glossary",
+                    "category": "example glossary",
+                    "image": "eventImage_1",
+                    "speaker_name": "Event Organiser",
+                    "speaker_details": "Media department will handle this .The massive technology conference Techweek references past attendees and sponsors to illustrate how popular and illustrious the event is. If you don’t have big names to reference you can include testimonials and reviews from past attendees to create the same effect. One study showed that 79% of customers trust online reviews as much as personal recommendations.",
+                    "date": "2:00 – 2:20",
+                    "location": "example location"
+                    },
+                    {
+                    "agendaId": "10",
+                    "title": "Ask me",
+                    "short_description": "Got a question? We got it!",
+                    "long_description": "example glossary",
+                    "category": "example glossary",
+                    "image": "eventImage_1",
+                    "speaker_name": "Event Organiser",
+                    "speaker_details": "Media department will handle this .The massive technology conference Techweek references past attendees and sponsors to illustrate how popular and illustrious the event is. If you don’t have big names to reference you can include testimonials and reviews from past attendees to create the same effect. One study showed that 79% of customers trust online reviews as much as personal recommendations.",
+                    "date": "2:20 – 2:35",
+                    "location": "example location"
+                    },
+                    {
+                    "agendaId": "11",
+                    "title": "Wait For It",
+                    "short_description": "Stay Tuned! ",
+                    "long_description": "example glossary",
+                    "category": "example glossary",
+                    "image": "eventImage_1",
+                    "speaker_name": "Event Organiser",
+                    "speaker_details": "Media department will handle this .The massive technology conference Techweek references past attendees and sponsors to illustrate how popular and illustrious the event is. If you don’t have big names to reference you can include testimonials and reviews from past attendees to create the same effect. One study showed that 79% of customers trust online reviews as much as personal recommendations.",
+                    "date": "2:35 – 2:40",
+                    "location": "example location"
+                    },
+                    {
+                    "agendaId": "12",
+                    "title": "Congratulations",
+                    "short_description": "Moment of Recognition! ",
+                    "long_description": "example glossary",
+                    "category": "example glossary",
+                    "image": "eventImage_1",
+                    "speaker_name": "Event Organiser",
+                    "speaker_details": "Media department will handle this .The massive technology conference Techweek references past attendees and sponsors to illustrate how popular and illustrious the event is. If you don’t have big names to reference you can include testimonials and reviews from past attendees to create the same effect. One study showed that 79% of customers trust online reviews as much as personal recommendations.",
+                    "date": "2:40 – 2:45",
+                    "location": "example location"
+                    },
+                    {
+                    "agendaId": "13",
+                    "title": "Enjoy Your Meal",
+                    "short_description": "  ",
+                    "long_description": "example glossary",
+                    "category": "example glossary",
+                    "image": "eventImage_1",
+                    "speaker_name": "Event Organiser",
+                    "speaker_details": "Media department will handle this .The massive technology conference Techweek references past attendees and sponsors to illustrate how popular and illustrious the event is. If you don’t have big names to reference you can include testimonials and reviews from past attendees to create the same effect. One study showed that 79% of customers trust online reviews as much as personal recommendations.",
+                    "date": "2:45 – 4:00",
+                    "location": "example location"
+                    },
+                    {
+                    "agendaId": "14",
+                    "title": "Feeling lucky?",
+                    "short_description": "Save your numbered ticket, you might win!  ",
+                    "long_description": "example glossary",
+                    "category": "example glossary",
+                    "image": "eventImage_1",
+                    "speaker_name": "Event Organiser",
+                    "speaker_details": "Media department will handle this .The massive technology conference Techweek references past attendees and sponsors to illustrate how popular and illustrious the event is. If you don’t have big names to reference you can include testimonials and reviews from past attendees to create the same effect. One study showed that 79% of customers trust online reviews as much as personal recommendations.",
+                    "date": "4:15 – 4:25",
+                    "location": "example location"
+                    },
+                    {
+                    "agendaId": "15",
+                    "title": "Let’s Play and have fun",
+                    "short_description": "Relax and have fun: \
+                    If you are beaten you might want to leave, if you are winning stay as long as you want  ",
+                    "long_description": "example glossary",
+                    "category": "example glossary",
+                    "image": "eventImage_1",
+                    "speaker_name": "Event Organiser",
+                    "speaker_details": "Media department will handle this .The massive technology conference Techweek references past attendees and sponsors to illustrate how popular and illustrious the event is. If you don’t have big names to reference you can include testimonials and reviews from past attendees to create the same effect. One study showed that 79% of customers trust online reviews as much as personal recommendations.",
+                    "date": "4:25  ",
+                    "location": "example location"
+                    }
+    ]
+        
+    }
