@@ -3,14 +3,14 @@
     {
         "eventId": "1",
         "title": "Our Gathering, 2018 Annual Gathering",
-        "short_description": "The Saudi Stock Exchange (Tadawul) on Tuesday scheduled the event  on Al Maather real estate investment traded fund's (Al Maather REIT Fund) units will start on 10 February.                                                     Tadawul had previously stated that the fund’s symbol will be 4334, and it will be listed .",
-        "long_description": "The Saudi Stock Exchange (Tadawul) on Tuesday scheduled the event  on Al Maather real estate investment traded fund's (Al Maather REIT Fund) units will start on 10 February.                                                     Tadawul had previously stated that the fund’s symbol will be 4334, and it will be listed .",
-        "date": "Thursday Feb 10 , 2018 - 10:00 AM - 7:00 PM",
-        "address" : "Tawuniya Towers NCCI North  Olaya Street King Fahad Rd",
+        "short_description": "Our Gathering is Tadawul’s first annual gathering combining strategy reveal and entertainment through various activities that are full of surprises and gifts. The gathering is for Tadawul and Edaa employees at APEX convention center (at Kapsarc) on the 17th March 2018",
+        "long_description": "Our Gathering is Tadawul’s first annual gathering combining strategy reveal and entertainment through various activities that are full of surprises and gifts. The gathering is for Tadawul and Edaa employees at APEX convention center (at Kapsarc) on the 17th March 2018",
+        "date": "Saturday March 17 , 2018",
+        "address" : "APEX convention center KAPSARC  Riyadh",
         "location":
         {
-            "lat" : 4.66,
-            "lon" : 44.55
+            "lat" : 24.8740022,
+            "lon" : 46.576095
             
         },
         "image" : "url",
