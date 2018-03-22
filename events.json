@@ -1,20 +1,16 @@
-{
-    "results":
-    {
-        "eventId": "1",
-        "title": "Our Gathering, 2018 Annual Gathering",
-        "short_description": "Our Gathering is Tadawul’s first annual gathering combining strategy reveal and entertainment through various activities that are full of surprises and gifts. The gathering is for Tadawul and Edaa employees at APEX convention center (at Kapsarc) on the 17th March 2018",
-        "long_description": "Our Gathering is Tadawul’s first annual gathering combining strategy reveal and entertainment through various activities that are full of surprises and gifts. The gathering is for Tadawul and Edaa employees at APEX convention center (at Kapsarc) on the 17th March 2018",
-        "date": "Saturday March 17 , 2018",
-        "address" : "APEX convention center KAPSARC  Riyadh",
-        "location":
-        {
-            "lat" : 24.8740022,
-            "lon" : 46.576095
-            
-        },
-        "image" : "url",
-        
-    }
+{  
+   "results":{  
+      "eventId":"1",
+      "title":"Our Gathering, 2018 Annual Gathering",
+      "short_description":"Our Gathering is Tadawul’s first annual gathering combining strategy reveal and entertainment through various activities that are full of surprises and gifts. The gathering is for Tadawul and Edaa employees at APEX convention center (at Kapsarc) on the 31 March 2018",
+      "long_description":"Our Gathering is Tadawul’s first annual gathering combining strategy reveal and entertainment through various activities that are full of surprises and gifts. The gathering is for Tadawul and Edaa employees at APEX convention center (at Kapsarc) on the 31 March 2018",
+      "date":"Saturday March 31 , 2018",
+      "address":"APEX convention center KAPSARC  Riyadh",
+      "location":{  
+         "title":"Tadawul Gathering 2018",
+         "lat":24.8740022,
+         "lon":46.576095
+      },
+      "image":"http://ec2-13-126-14-133.ap-south-1.compute.amazonaws.com:8080/tadawulevents/headerImg?imageName=image_banner.jpg"
+   }
 }
-
